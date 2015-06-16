@@ -1,6 +1,0 @@
-Klasická hra Pacman, v níž se hráč pohybuje v bludišti a sbírá tečky. Ve sbírání mu překážejí duchové, kteří se ho snaží chytit. Je zde možnost volby obtížnosti, na níž závisí inteligence duchů, existuje tedy více typů duchů:
-
-duch, který se pohybuje náhodně
-duch, který se začne pohybovat za hráčem, když ho přímo uvidí
-duch, který se v pravidelném intervalu začne pohybovat přímo za hráčem
-
