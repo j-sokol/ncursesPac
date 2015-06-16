@@ -1,12 +1,13 @@
 # npac
 
+ncurses pacman written in C++ for *NIX systems.
 
 ## Usage
 
 Briefly, the following shell command should configure and
 build this package on the default directories:
 
-    $ make
+    $ make compile
 
 Then if you want to play it, do:
 
