@@ -2,6 +2,12 @@
 
 ncurses pacman written in C++ for *NIX systems.
 
+## Screenshots
+![menu](docs/screenshot_menu.png)
+![menu](docs/screenshot_game.png)
+
+
+
 ## Usage
 
 Briefly, the following shell command should configure and
@@ -20,9 +26,4 @@ Game only depends on `ncurses` library; it's used to show graphical things on th
 In Arch linux it comes by default, in Debian/Ubuntu/Mint distros you have to install it with command
 `apt-get install libncurses5-dev` 
 
-
-## Screenshots
-
-![menu](http://weedtime.cz/Výběr_023.png)
-![menu](http://weedtime.cz/Výběr_024.png)
 
