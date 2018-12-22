@@ -1,4 +1,4 @@
-# npac
+# ncursesPac 
 
 ncurses pacman written in C++ for *NIX systems.
 
