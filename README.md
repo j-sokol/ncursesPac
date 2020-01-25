@@ -23,7 +23,7 @@ Then if you want to play it, do:
 
 Game only depends on `ncurses` library; it's used to show graphical things on the terminal window.
 
-In Arch linux it comes by default, in Debian/Ubuntu/Mint distros you have to install it with command
-`apt-get install libncurses5-dev` 
+In Arch linux it comes by default, in Debian-based distros (Ubuntu) you have to install it with command
+`apt-get install libncurses5-dev`.
 
-
+On macOS it is `brew install ncurses`.
